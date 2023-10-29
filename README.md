@@ -1,13 +1,19 @@
 - 👋 Hi, I’m @shrigithub14
-🚀 Passionate Tech Enthusiast | Full-Stack Developer | ML & AI Explorer
+🚀 Passionate Tech Enthusiast | Full-Stack Developer |  AI Explorer 
 
 Hey there! 👋 I'm Shrikant jadhao, a dedicated and creative tech enthusiast pursuing my BTech in Computer Science. My passion lies in crafting innovative solutions through web development, software engineering, and exploring the exciting realms of Machine Learning and Artificial Intelligence. 💻✨
 
 💡 What I Bring to the Table:
+
+
 #Web Development Guru: 
+
 #Code Artisan:
+
 #AI Explorer:
+
 #Cloud Enthusiast: 
+
 #Open Source Advocate: Actively contribute to open-source projects, believing in the collaborative nature of coding and the ethos of giving back to the tech community.
 
 🌟 Why You Should Hire Me:
