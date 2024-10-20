@@ -28,7 +28,7 @@ Email: jshrikant1553@gmail.com
 
 I'm on the lookout for exciting opportunities to apply my skills and passion. If you're into tech innovation, code craftsmanship, and building the future together, let's chat! 🚀✨
 
-Feel free to customize the bio with your specific details, skills, and links. Best of luck with your GitHub journey and your future endeavors! 😊✨
+
 
 
 
