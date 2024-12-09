@@ -1,6 +1,6 @@
 ### Shrikant Jadhao - Tech Enthusiast and Full-Stack Developer 👋  
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+Shrikant's+GitHub)  
+![Profile Banner](https://github.com/shrigithub14/shrigithub14/blob/main/1712091595285.jpg)  
 
 ---
 
