@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @shrigithub14
+- ![Profile Banner]("C:\Users\shrikant\Desktop\resume\1712091595285.jpg")
+
 🚀 Passionate Tech Enthusiast | Full-Stack Developer |  AI Explorer 
 
 Hey there! 👋 I'm Shrikant jadhao, a dedicated and creative tech enthusiast pursuing my BTech in Computer Science. My passion lies in crafting innovative solutions through web development, software engineering, and exploring the exciting realms of Machine Learning and Artificial Intelligence. 💻✨
